@@ -1,0 +1,52 @@
+Active Learning (subset of machine learning) is a kind of query-based learning
+where the user queries for specific inforaation based on a certain region of interest.
+
+The fundamental assumption behind the active learner algorithm concept is that an Ml
+algorithm could potentially reach a higher level of accuracy while using a smaller 
+number of training labels if it were allowed to choose the data it wants to learn 
+from.
+
+Building CB based on AL
+Instead of storing each instance in the	memory the learner can exploit from the 
+hypothesis postulated by AL that user has the liberty to choose the data to learn 
+from specific to the learning algorithm.
+SO in comparison to regular ML algorithms where we randoaly picked up the
+instances we can employ AL to do it more smartly in an interactive approach.
+
+examples for AL
+a)Speech recognition: Accurate labeling of speech utterances is time consUming 
+and requires expertise ,annotation at word level can take ten times longer than 
+actual audio,and annotating phonemes can take 400 times as long,
+
+b)document classifcation and filtering : learning to classify documents or any
+kind of media requires that users label each document or media file with particular
+labels, like relevant or irrelevant.
+
+define about etilesceramics
+"Etilesceramics, a cutting-edge AI startup, is at the forefront of revolutionizing 
+technology Our company, driven by a passion for innovation. Etilesceramics aims to 
+bring about a new era of efficiency, precision, and creativity by integrating AI 
+solutions. With a commitment to excellence and a vision for the future.
+
+Introducing Manas, the visionary owner of Etilesceramics-AI With a solid foundation 
+in chemical engineering, Manas has seamlessly blended his technical acumen with a 
+strategic business mindset Holding a prestigious Master's in Business Administration 
+from the renowned Indian Institute of Management (IIM),Currently residing in Saudi Arabia
+as a Non-Resident Indian (NRI), Manas orchestrates the growth and development of our 
+cutting-edge AI startup from the heart of the Middle East His global perspective and 
+innovative approach have been instrumental in positioning Etilesceramics-AI as a 
+leader Manas's commitment to excellence and cross-disciplinary prowess underscores 
+the dynamic and forward-thinking ethos that defines our company's journey.
+
+Meet Qais, our esteemed Chief Engineer at Etilesceramics-AI Qais brings a 
+wealth of expertise and leadership to our innovative team With a strong background 
+in engineering and a keen focus on AI technologies.
+
+Meet Soofia, our dedicated Coordinator at Etilesceramics-AI Soofia plays a pivotal 
+role in ensuring seamless communication and collaboration within our innovative team 
+With a keen eye for detail and exceptional organizational skills, she facilitates the 
+smooth execution of projects and fosters a positive working environment. 
+
+
+
+
